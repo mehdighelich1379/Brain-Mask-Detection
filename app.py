@@ -4,6 +4,16 @@ import cv2
 from PIL import Image
 from tensorflow.keras.models import load_model
 
+st.markdown("""
+    <style>
+        .block-container {
+            padding-top: 1rem;
+        }
+        header, footer {visibility: hidden;}
+    </style>
+""", unsafe_allow_html=True)
+
+
 # Set the page layout to wide for better horizontal space
 st.set_page_config(layout="wide")
 st.title("Brain Tumor Segmentation")

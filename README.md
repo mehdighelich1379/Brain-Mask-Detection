@@ -4,6 +4,11 @@
 In this project, the goal was to perform image processing on MRI images of human brains that have tumors. The dataset used is the LGG MRI Segmentation dataset from Kaggle, which contains MRI scans and corresponding masks for segmenting the tumor areas in the images.
 
 ---
+🔗 Live Demo: Click here to use the app https://heart-disease-classification-ml-mehdighelich.streamlit.app
+
+📷 App Preview:
+
+![App Screenshot](heart_app_screenshot%20(2).png)
 
 ### Steps Taken in the Project:
 

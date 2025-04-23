@@ -1,9 +1,0 @@
-pandas
-numpy
-matplotlib
-seaborn
-pickle
-zipfile
-cv2
-os
-tensorflow

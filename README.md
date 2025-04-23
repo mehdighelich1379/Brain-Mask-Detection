@@ -9,8 +9,8 @@ In this project, the goal was to perform image processing on MRI images of human
 📷 App Preview:
 
 
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](Screenshot1.png)
+![App Screenshot](Screenshot2.png)
 
 ### Steps Taken in the Project:
 

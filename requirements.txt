@@ -3,5 +3,4 @@ numpy
 matplotlib
 seaborn
 opencv-python
-os
 tensorflow

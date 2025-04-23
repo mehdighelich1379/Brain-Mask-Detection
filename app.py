@@ -6,7 +6,7 @@ from tensorflow.keras.models import load_model
 
 # Set the page layout to wide for better horizontal space
 st.set_page_config(layout="wide")
-st.markdown("Brain Tumor Segmentation")
+st.title("Brain Tumor Segmentation")
 
 st.image('MRI_background.jpg' , use_container_width=True)
 # Load your trained model

@@ -2,7 +2,6 @@ pandas
 numpy
 matplotlib
 seaborn
-zipfile
 cv2
 os
 tensorflow
